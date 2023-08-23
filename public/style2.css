@@ -1,10 +1,16 @@
 *{
-    background-color: darkturquoise;
+    background-color: #5f5f5f;
     text-align: center;
 }
 .title1{
-    color: blueviolet;
+    color: #97ffff;
 }
 p{
     color: antiquewhite;
+}
+h3{
+    color: #97ffff;
+}
+li{
+    color: #97ffff;
 }
