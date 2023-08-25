@@ -2,6 +2,36 @@
     text-align: center;
     background-color:#8b8378;
 }
-.white{
+
+h2{
+    margin: 10px;
+}
+
+h3{
+    margin: 10px;
+}
+
+#link1{
+    color: antiquewhite;
+    margin-right: 10px;
+}
+
+#link2{
+    color: antiquewhite;
+    margin-left: 10px;
+}
+
+.blue{
     color: #97ffff;
+}
+
+#image1{
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+#image2{
+    margin: 10px;
+    padding: 10px;
 }
